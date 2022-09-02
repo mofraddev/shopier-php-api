@@ -9,4 +9,4 @@ includeshopier.php - Shopier class'ı.<br>
 shopierNotify.php - Shopier'in ödeme bitiminde parametreleri bize göndereceği dosya yani callback dosyası olarak iş görmektedir.<br>
 
 # iletişim
-<a href="https://wa.me/9005383544058">Entegrasyonu tek başınıza yapamıyorsanız eğer destek almak için tıklayınız.</a>
+<a href="https://wa.me/908503085778">Entegrasyonu tek başınıza yapamıyorsanız eğer ücretli destek almak için tıklayınız.</a>
